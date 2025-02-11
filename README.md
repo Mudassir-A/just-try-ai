@@ -78,9 +78,6 @@ vercel --prod
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## Author
-
-- Ali Hamza Kamboh ([@ahkamboh](https://github.com/ahkamboh))
 
 ## License
 

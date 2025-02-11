@@ -12,30 +12,30 @@ export default function Footer() {
             <span className="inline-block animate-pulse text-red-500">❤️</span>
             {" "}by{" "}
             <Link 
-              href="https://alihamzakamboh.com" 
+              href="https://tinyurl.com/mudassiria" 
               target="_blank" 
               className="text-[#3B82F6] hover:text-[#60A5FA] transition-colors duration-200"
             >
-              Ali Hamza Kamboh
+              Mudassir Ansari and Team
             </Link>
           </div>
 
           {/* Social Links */}
           <div className="flex items-center gap-6">
-            <Link href="https://github.com/ahkamboh" className="text-gray-400 hover:text-white transition-colors">
+            <Link href="https://github.com/Mudassir-A" className="text-gray-400 hover:text-white transition-colors">
               <Github className="h-5 w-5" />
             </Link>
-            <Link href="https://linkedin.com/in/ahkamboh" className="text-gray-400 hover:text-white transition-colors">
+            <Link href="https://linkedin.com/in/mudassiria" className="text-gray-400 hover:text-white transition-colors">
               <Linkedin className="h-5 w-5" />
             </Link>
-            <Link href="mailto:ahk@alihamzakamboh.com" className="text-gray-400 hover:text-white transition-colors">
+            <Link href="mailto:mudassirimranansari@gmail.com" className="text-gray-400 hover:text-white transition-colors">
               <Mail className="h-5 w-5" />
             </Link>
           </div>
 
           {/* Copyright */}
           <p className="text-sm text-[#3B82F6]">
-            © {new Date().getFullYear()} Cloth AI Changer
+            © {new Date().getFullYear()} Just-Try™
           </p>
         </div>
       </div>

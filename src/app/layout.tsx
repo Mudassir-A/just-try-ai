@@ -17,9 +17,9 @@ export const metadata: Metadata = {
   title: "AI Cloth Changer - Virtual Try-On Experience",
   description: "Experience virtual try-on powered by AI. Upload your photo and instantly see how different garments look on you. Transform your shopping experience with our advanced AI technology.",
   keywords: "AI cloth changer, virtual try-on, AI fashion, digital fitting room, virtual mirror, AI clothing, fashion technology, virtual clothing try-on",
-  authors: [{ name: "Ali Hamza Kamboh", url: "https://alihamzakamboh.com" }],
-  creator: "Ali Hamza Kamboh",
-  publisher: "Ali Hamza Kamboh",
+  authors: [{ name: "mudassir", url: "https://tinyurl.com/mudassiria" }],
+  creator: "mudassir",
+  publisher: "mudassir",
   robots: "index, follow",
   openGraph: {
     type: "website",
