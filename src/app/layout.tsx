@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "AI Cloth Changer - Virtual Try-On Experience",
     description: "Transform your shopping experience with AI-powered virtual try-on technology.",
-    creator: "@ahkamboh",
+    creator: "@mudassiria",
     images: ["/og-image.png"], // Same image as OpenGraph
   },
   viewport: "width=device-width, initial-scale=1, maximum-scale=1",
